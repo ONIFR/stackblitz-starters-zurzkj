@@ -93,7 +93,7 @@ const TeamPage = () => {
       <div id="team-selection-container">
         <div className="team-container" id="frogz-container">
           <div className="team-title">The Frogz Team</div>
-          <img src="https://cdn.discordapp.com/attachments/1090010869343195188/1114087970090266654/SamPlayer20_a_3D_cube_with_Pepee_the_frog_on_each_surface_of_th_946758.png" alt="Frogz" className="team-image" id="frogz-image" />
+          <img src="https://cdn.discordapp.com/attachments/1090010869343195188/1114087970090266654/SamPlayer20_a_3D_cube_with_Pepee_the_frog_on_each_surface_of_th_9467581d-d481-4852-9375-3edabb870eab.png" alt="Frogz" className="team-image" id="frogz-image" />
           <br />
           <button className="team-button" onClick={() => confirmTeamSelection('Frogz')}>Join the team</button>
         </div>
